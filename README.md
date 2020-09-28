@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+프로필에 쓸 말을 추천해주세요.
+
 <!--
 **HamBP/HamBP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
