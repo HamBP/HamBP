@@ -9,4 +9,7 @@
 - 2020.09 - 2021.03 : android with (java → kotlin), node.js(express), mysql, ...
 - 2021.04 - 2021.11 : SW마에스트로 12기
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=sjy9484)](https://solved.ac/sjy9484)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamBP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
